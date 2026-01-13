@@ -1,5 +1,7 @@
 # bipedal_sw
 
+![walking](https://github.com/rubieluo/bipedal_sw/blob/main/bdx_walk.gif)
+
 Software for bipedal robot.
 
 ## Contents
