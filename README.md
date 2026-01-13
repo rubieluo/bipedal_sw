@@ -31,7 +31,7 @@ source .venv/bin/activate
 Install the submodule
 
 ```
-pip install st-3215
+pip install python-st3215
 ```
 
 ## Usage
